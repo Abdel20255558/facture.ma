@@ -198,7 +198,7 @@ export default function Reports() {
 
      <h1 className="text-2xl font-bold text-gray-900 flex items-center space-x-2">
             <BarChart3 className="w-8 h-8 text-blue-600" />
-            <span>Rapports</span>
+            <span>Gestion financière </span>
             <Crown className="w-6 h-6 text-yellow-500" />
           </h1>
          <p className="text-gray-600 mt-2">
