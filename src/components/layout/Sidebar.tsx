@@ -54,18 +54,19 @@ export default function Sidebar({ open, setOpen, onUpgrade }: SidebarProps) {
       path: '/stock-management',
       isPro: true 
     },
+      { 
+      icon: BarChart3, 
+      label: t('Gestion financière'), 
+      path: '/reports',
+      isPro: true 
+    },
     { 
       icon: UserCheck, 
       label: 'Gestion Humaine', 
       path: '/hr-management',
       isPro: true 
     },
-    { 
-      icon: BarChart3, 
-      label: t('Gestion financière'), 
-      path: '/reports',
-      isPro: true 
-    },
+  
     
     { icon: Settings, label: t('settings'), path: '/settings' },
   ];
