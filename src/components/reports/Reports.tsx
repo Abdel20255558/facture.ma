@@ -202,7 +202,7 @@ export default function Reports() {
             <Crown className="w-6 h-6 text-yellow-500" />
           </h1>
          <p className="text-gray-600 mt-2">
-           La section Rapports vous permet d’analyser les performances financières de votre entreprise sur la période de votre choix. Fonctionnalité réservée aux abonnés PRO.
+           La section Gestion financière vous permet d’analyser les performances financières de votre entreprise sur la période de votre choix. Fonctionnalité réservée aux abonnés PRO.
           </p>
   </div>
         
